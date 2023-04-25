@@ -1,5 +1,5 @@
-
-
+//Create a code with a "for loop"
+//The code with contain a array that sets the input array in reverse order (1,2,3) to (3,2,1)
 
 const numbers1 = ["1", "2", "3"];
 

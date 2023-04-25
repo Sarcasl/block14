@@ -1,9 +1,5 @@
-
-
-
-
-
-
+//Create a code that takes array of numbers and returns a new array with odd numbrs only
+//If thre is only 1 odd number in array, reutrn an array with that value only
 
 
 const numbers1 = new Array (2,4,6,8,11,20,15,22);
@@ -15,9 +11,6 @@ for (let i = 0; i < numbers1.length; i++) {
     }
 }
 console.log(oddNumbers1);
-
-
-
 
 
 
@@ -34,7 +27,6 @@ console.log(oddNumbers2);
 
 
 
-
 const numbers3 = new Array (70,42,55,81,21,91,34);
 const oddNumbers3 = new Array ();
 
@@ -44,8 +36,6 @@ for (let i = 0; i < numbers3.length; i++) {
     }
 }
 console.log(oddNumbers3);
-
-
 
 
 
